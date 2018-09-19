@@ -5,6 +5,8 @@
   ##optional取代null
   ##新的日期与时间API
 #concurrency 
-  主要学习java并发内容。
+  主要学习java并发内容。java并发编程实战
    ##java8 Completablefuture:组合式异步编程
    ##java并发编程实战
+#thing in java
+   java编程思想
