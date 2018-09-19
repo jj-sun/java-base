@@ -11,7 +11,7 @@
     <modules>
         <module>java8</module>
         <module>concurrency</module>
-        <module>thing-in-java</module>
+        <module>thinking-in-java</module>
     </modules>
 
     <name>java-base</name>
