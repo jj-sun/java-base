@@ -29,9 +29,9 @@ public class Philosopher implements Runnable {
             while (!Thread.interrupted()) {
                 System.out.println(this + " thinking");
                 pause();
-                System.out.println(this + "" + "grabbing right");
+                System.out.println(this + "" + " grabbing right");
                 right.take();
-                System.out.println(this + "" + "grabbing left");
+                System.out.println(this + "" + " grabbing left");
                 left.take();
                 System.out.println(this + "eating");
                 pause();
